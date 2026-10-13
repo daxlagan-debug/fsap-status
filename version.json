@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "1.1",
-  "notes": "Test notice",
+  "version": "1.00",
+  "notes": "",
   "link": "",
-  "issued": 1791867257
+  "issued": 1791867671
  },
- "sig": "yX1esjlsFISFUqI0H/FmaPd75+m2Vvo5se+fo1g/XWvzhNI9+UUe2bqONrCNL+eC9LDrcGX8dEEaWKZ5oV0QCw=="
+ "sig": "Ep/OF2FxxkZ1ATLiqSbAoXKwuXH88gUFo5IF+UU9RKh5M5VKcfdKr3Iiq+T5Iklf/iyu7ZUJXWPxUsicj9F5Dg=="
 }
