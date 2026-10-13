@@ -1,11 +1,14 @@
 {
  "data": {
-  "serial": 3,
-  "issued": 1791864297,
+  "serial": 4,
+  "issued": 1791865394,
   "revoked": [
+   "69a8e497db704c81",
    "733a925c97ded725",
+   "77cf957c8ea1ac0f",
+   "b737b96fe91c619e",
    "ff403df3cc01fc6e"
   ]
  },
- "sig": "+1aIO1d2JnR6qlObf62ETM4HYRReT0keIq/ArIqcTbO5ecyszqnl31H6v/qBmRz3BNnqxXiGhJs8Clz4ri8rAw=="
+ "sig": "VkIvdGYdvjdj9FR0dWVBOjhCDeN9+O4fbiHUfnJv2KZTA1vRkBXb7POJ5RJnayOq4nXfSt7pkuRj2Sy2VOxZCw=="
 }
