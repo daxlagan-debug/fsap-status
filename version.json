@@ -1,0 +1,10 @@
+{
+ "data": {
+  "kind": "version",
+  "version": "1.0",
+  "notes": "Test notice",
+  "link": "",
+  "issued": 1791867257
+ },
+ "sig": "yX1esjlsFISFUqI0H/FmaPd75+m2Vvo5se+fo1g/XWvzhNI9+UUe2bqONrCNL+eC9LDrcGX8dEEaWKZ5oV0QCw=="
+}
