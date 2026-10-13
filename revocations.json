@@ -1,0 +1,11 @@
+{
+ "data": {
+  "serial": 3,
+  "issued": 1791864297,
+  "revoked": [
+   "733a925c97ded725",
+   "ff403df3cc01fc6e"
+  ]
+ },
+ "sig": "+1aIO1d2JnR6qlObf62ETM4HYRReT0keIq/ArIqcTbO5ecyszqnl31H6v/qBmRz3BNnqxXiGhJs8Clz4ri8rAw=="
+}
