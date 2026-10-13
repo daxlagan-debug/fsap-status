@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "1.00",
-  "notes": "",
+  "version": "1.1",
+  "notes": "Added Copy Log Button for reporting issues",
   "link": "",
-  "issued": 1791867671
+  "issued": 1791868199
  },
- "sig": "Ep/OF2FxxkZ1ATLiqSbAoXKwuXH88gUFo5IF+UU9RKh5M5VKcfdKr3Iiq+T5Iklf/iyu7ZUJXWPxUsicj9F5Dg=="
+ "sig": "qzF/9U4AsCJOqzduohHWs7LeGx8RETS6jqYqjMov+aHexjrVUQ0JgQCzgicBaf+zHnaJGkfBAXSF87Nfo8QNDA=="
 }
