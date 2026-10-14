@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "1.5",
-  "notes": "v1.5: Raid spam now overrides movement keys so it can't be interrupted.",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V1.5",
-  "issued": 1791933693
+  "version": "2.5",
+  "notes": "v2.5: Auto-banish handles 1-card offers and never banishes your last choice.",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V2.5",
+  "issued": 1791937566
  },
- "sig": "MkFa0Bc954bwtGGL6kHBup/L1J/V8EcGY6kXRM4tilueFmoDZ27HyteSKIip+FoEsJfklIWzcCTCsGfIlBvjDA=="
+ "sig": "JeuBPUuwss/i3TKBBdnKt1kYKKggHEm0KocmWHSh++OIdlfIpyjpWXdOvAX4hJle3PU61Tc0XVWB9rquyp1QAA=="
 }
