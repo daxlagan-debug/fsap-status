@@ -1,10 +1,13 @@
 {
  "data": {
   "kind": "version",
-  "version": "4.6",
-  "notes": "v4.6: Rewards tracker fix",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V4.6",
-  "issued": 1792016256
+  "version": "4.7",
+  "notes": "Auto-updater: installs itself",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/latest",
+  "issued": 1792017719,
+  "file": "https://github.com/daxlagan-debug/fsap-status/releases/download/v4.7/Final.Swarm.Auto.Picker.exe",
+  "sha256": "64f4335b3fd002759333d717539298d77a86e6785ebeccdb1d99626f244581d7",
+  "size": 102866331
  },
- "sig": "nz5G+EAhCzcy8ymone/X7kaBGQ8eqj0sDHBY/UVZ9pkBcxmixUAgW419S6NpAfRX0ZmPQUwmPBxJsviqbUgNCw=="
+ "sig": "gj1bdGmi0FaWLoZUsymn8gghMe7YgHlkyorb357s4W9EhA428mebIgr0VEP+l2+yivzdG1nDhM2xV4UdtV1hCA=="
 }
