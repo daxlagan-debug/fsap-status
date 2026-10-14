@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "3.8",
-  "notes": "v3.8: Window auto-size, new Help guide, auto-reconnect fix",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V3.8",
-  "issued": 1791952386
+  "version": "4.5",
+  "notes": "v4.5: Rewards tracking, weapon reroll hunt, Roblox auto-reopen, full presets, backup, double-win fix",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V4.5",
+  "issued": 1792007849
  },
- "sig": "/Ky3Wxz9fIZhr9SLbgR83QoSP9WW5E11z9RdAuZkzHZz71hLIYTB1X9LMLGxou01hgxpMf+oqqLMP4KPcPO9DA=="
+ "sig": "JoXA9aZaStVY3zAzRt1TSZgYMFpUIiBe2ijvaQ1NVTMRDwDCKI7pbPlRsoNGVK9sjh2ic50rVgi4f1t7SYgQCg=="
 }
