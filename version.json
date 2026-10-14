@@ -2,12 +2,12 @@
  "data": {
   "kind": "version",
   "version": "4.7.1",
-  "notes": "TEST UD",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/latest",
-  "issued": 1792017850,
+  "notes": "TEST",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V4.7.1",
+  "issued": 1792017958,
   "file": "https://github.com/daxlagan-debug/fsap-status/releases/download/v4.7.1/Final.Swarm.Auto.Picker.exe",
   "sha256": "26f8b7b7072650dcffdfb6868559a125c58faf8de501bb258d8cdf68f37ce0e4",
   "size": 102866000
  },
- "sig": "S+My5licGng02B+t3BN/+VrppxWY5iuzHisRf6/QDi9q5JqPNBRmVtR1eKfX+e8xsx5/FcpNu1hHpts/XWR4CQ=="
+ "sig": "6X4se7V/V/FwIvazJzM7JsFItbQVvXn4/OvGN3+AQAcDyj1D7zpU9SSKBbpK/S4FQpXfxop6JNFQh2Thor9SDg=="
 }
