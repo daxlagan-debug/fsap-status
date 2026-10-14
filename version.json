@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "3.3",
-  "notes": "v3.3: **NEW** Auto-Start Dungeons (Customizable) + Auto Banish Safety Tweaks",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V3.3",
-  "issued": 1791949252
+  "version": "3.4",
+  "notes": "v3.4: Auto-reconnect fixed",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V3.4",
+  "issued": 1791950764
  },
- "sig": "FQiaD/dq1vFGcFxjByEjoHlLIijyuiQf+WF99N+yg0r/HNrvUduzMVl5zhdfyQ42PhCt+6cuOUKL5er0VIPwAg=="
+ "sig": "IS+2LhpesZD1rGKmWHIfsGMtfOEkVr9BNVrSL9Ffa41uDoKUr4dh5rfa467Z6qVXIe4DABGY5+pFaJUXTbiHAg=="
 }
