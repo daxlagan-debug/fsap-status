@@ -1,10 +1,10 @@
 {
  "data": {
   "kind": "version",
-  "version": "2.5",
-  "notes": "v2.5: Auto-banish handles 1-card offers and never banishes your last choice.",
-  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V2.5",
-  "issued": 1791937566
+  "version": "3.3",
+  "notes": "v3.3: **NEW** Auto-Start Dungeons (Customizable) + Auto Banish Safety Tweaks",
+  "link": "https://github.com/daxlagan-debug/fsap-status/releases/tag/V3.3",
+  "issued": 1791949252
  },
- "sig": "JeuBPUuwss/i3TKBBdnKt1kYKKggHEm0KocmWHSh++OIdlfIpyjpWXdOvAX4hJle3PU61Tc0XVWB9rquyp1QAA=="
+ "sig": "FQiaD/dq1vFGcFxjByEjoHlLIijyuiQf+WF99N+yg0r/HNrvUduzMVl5zhdfyQ42PhCt+6cuOUKL5er0VIPwAg=="
 }
