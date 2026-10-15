@@ -1,13 +1,13 @@
 {
  "data": {
   "kind": "version",
-  "version": "5.0",
-  "notes": "Weapon dmg stats + raid end",
+  "version": "5.1",
+  "notes": "Raid>farm, map presets+filter",
   "link": "https://github.com/daxlagan-debug/fsap-status/releases/latest",
-  "issued": 1792025392,
-  "file": "https://github.com/daxlagan-debug/fsap-status/releases/download/V5.0/Final.Swarm.Auto.Picker.exe",
-  "sha256": "b3326b390e5221d85681f007fe2b5893acba3d4fa82eaefb6c541ca26867dc78",
-  "size": 102890392
+  "issued": 1792069121,
+  "file": "https://github.com/daxlagan-debug/fsap-status/releases/download/V5.1/Final.Swarm.Auto.Picker.exe",
+  "sha256": "bb6cd9b5bb77928bb89db7adbebb3aa37b4435a6af2d6f8ca9a6576160fe1ad5",
+  "size": 102900782
  },
- "sig": "DouMvebidtT64ckfNVgzIChbPu2d3TQ7uxO1LsU48Hj8sZ9ex0BYkUyHEK5zY+q3sn1lIAqmr77l88eiNe8lBg=="
+ "sig": "HNdzKSaRKNp8g23KjY4mLosPmhpNi9C4ILVBNuT3sKKhOqmtHr6N/bpoaKr9Qv9xhvqctQGKIQ6MCKjZyByVAg=="
 }
